@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import Image from 'next/image'
-import { signIn, signOut, useSession, getSession } from 'next-auth/client';
+import { signIn, signOut, useSession, getSession } from 'next-auth/client'
 
 import styles from '../styles/Home.module.css'
 
